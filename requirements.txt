@@ -1,0 +1,2 @@
+# Version used by the checked-in configuration and local verification.
+mkdocs-material==9.7.7
